@@ -6,7 +6,7 @@ Operates on all current devices and browsers. KenBurns, Slide, Fade, Zoom effect
 <a href="http://cssslider.com/">
   <img src="http://cssslider.com/sliders/css1.jpg">
 </a>
-
+ 
 ## Pure CSS Slider
 Forget about using any JavaScript - this image slider is created with CSS and HTML exclusively
 
