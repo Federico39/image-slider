@@ -1,6 +1,6 @@
 # [cssSlider](http://cssslider.com/) - 100% Pure CSS Slider
 Create perfect picture sliders fully in CSS. No jQuery, no JavaScript, no photo icons, no coding! It's surprisingly fast, light, responsive, and retina-ready. 
-Operates on all current devices and browsers. KenBurns, Slide, Fade, Zoom effects and some flat skins are available (more coming soon). 
+All current devices and browsers. 
 [Download now](http://cssslider.com/) or see [live demo](http://cssslider.com/#demos)!
 
 <a href="http://cssslider.com/">
