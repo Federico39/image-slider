@@ -7,30 +7,6 @@ Operates on all current devices and browsers. KenBurns, Slide, Fade, Zoom effect
   <img src="http://cssslider.com/sliders/css1.jpg">
 </a>
  
-## Pure CSS Slider
-Forget about using any JavaScript - this image slider is created with CSS and HTML exclusively
-
-## Cross-browser
-Operates on all devices and modern browsers, including old IEs (with the optional js fallback)
-
-## CSS3 effects
-Silky smooth hardware-accelerated animations run much better than jQuery ones, especially on mobiles
-
-## Retina-ready
-All slider controls are vector icon font and they're perfect on high-res displays
-
-## Non-jQuery Slider
-No more weighty and slow-moving jQuery with tons of unused code
-
-## Any colors
-CSS Slider doesn't use images for styling hence the skin color can be effortlessly altered
-
-## Responsive slider
-Adaptive slider fits perfectly into your page, in spite of the screen size
-
-## No coding
-Develop your slider in minutes with the visual maker
-
 ## *** non-jQuery slider? ***
 It seems, photo sliders are everywhere. And pretty sure you can find plenty of photo sliders that allow you to show pictures and images in your website, but they're all fairly straightforward, with exactly the same need of jQuery and Java Script. Why carry the heavy and over-loaded libraries when all can be done with the clear and lightweight CSS? cssSlider is the only pure CSS slider that offers a blend of wonderful CSS3 effects, pre-created skins, icon fonts, full-functional navigation controls and a no-coding slider generation.
 
